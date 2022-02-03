@@ -1,6 +1,9 @@
 ## calculator
 Simple Calculator Neomorphism
 
+Preview:
+https://mohammadyousefvand.github.io/Calculator/
+
 **Use eval in calculator**
 #### but
 > ### [Never use eval ()!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#never_use_eval! "Permalink to Never use eval()!")
